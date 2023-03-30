@@ -1,0 +1,2 @@
+You have to set points strictly as showed in the autodoc documentation
+in order to exclude the possible errors, class Point2D returns only the coordinates from the dictionary, DO NOT TRY TO USE this method, IT IS FOR TESTING ONLY
